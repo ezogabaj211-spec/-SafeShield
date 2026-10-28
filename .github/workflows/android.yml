@@ -21,3 +21,4 @@ jobs:
         with:
           name: SafeShield-APK
           path: build/outputs/apk/debug/app-debug.apk
+
